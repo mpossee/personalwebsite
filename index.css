@@ -1,9 +1,9 @@
 @-webkit-keyframes gradshift {
-      0% {background-color: #95d7dd;}
-     25% {background-color: #FFF5A5;}
-     50% {background-color: #FFD4DA;}
-     75% {background-color: #99D2E4;}
-     100% {background-color: #D8CAB4;}
+      0% {background-color: #ffffff;}
+     25% {background-color: #ffe3ff;}
+     50% {background-color: #ffdee5;}
+     75% {background-color: #f0d3dd;}
+     100% {background-color: #e3aacb;}
 }
 body{
   -webkit-animation: gradshift 10s linear infinite alternate;
