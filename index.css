@@ -41,10 +41,6 @@ h1 {
     text-align: right;
     margin-right: 5%;
     }
-  footer {
-    text-align: center;
-    padding-top: 20px;
-  }
 body {
   font-family: "Helvetica Neue";
 	font-size: 18px;
@@ -53,9 +49,13 @@ body {
 	font-weight: 500;
 	line-height: 15.4px;
   }
+  footer {
+    text-align: center;
+  }
 .portfolio__item {
   width: calc(33% - 20px);
   float: left;
   padding: 5px;
+  padding-bottom: 5px;
   display: block;
   }
