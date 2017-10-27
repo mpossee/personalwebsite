@@ -8,3 +8,53 @@
 body{
   -webkit-animation: gradshift 10s linear infinite alternate;
 }
+
+header {
+	font-family: "Bookman Old Style";
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+  }
+header {
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.4rem;
+    }
+h1 {
+  font-family: "Bookman Old Style";
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+  }
+  h2 {
+    font-family: "Bookman Old Style";
+  	font-size: 16px;
+  	font-style: normal;
+  	font-variant: normal;
+  	font-weight: 500;
+  	line-height: 15.4px;
+    text-align: right;
+    margin-right: 5%;
+    }
+body {
+  font-family: "Bookman Old Style";
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+  }
+.portfolio__item {
+  width: calc(33% - 20px);
+  float: left;
+  padding: 10px;
+  }
+.h5 {
+  font-size: 15px;
+  text-align: left;
+  }
