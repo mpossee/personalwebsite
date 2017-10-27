@@ -51,6 +51,7 @@ body {
   }
   footer {
     text-align: center;
+    margin-top: 10px;
   }
 .portfolio__item {
   width: calc(33% - 20px);
