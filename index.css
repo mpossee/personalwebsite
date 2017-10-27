@@ -10,8 +10,8 @@ body{
 }
 
 header {
-	font-family: "Bookman Old Style";
-	font-size: 24px;
+	font-family: "Helvetica Neue";
+	font-size: 22px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
@@ -24,16 +24,16 @@ header {
     font-size: 1.4rem;
     }
 h1 {
-  font-family: "Bookman Old Style";
-	font-size: 20px;
+  font-family: "Helvetica Neue";
+	font-size: 18px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 15.4px;
   }
   h2 {
-    font-family: "Bookman Old Style";
-  	font-size: 16px;
+    font-family: "Helvetica Neue";
+  	font-size: 14px;
   	font-style: normal;
   	font-variant: normal;
   	font-weight: 500;
@@ -41,9 +41,13 @@ h1 {
     text-align: right;
     margin-right: 5%;
     }
+  footer {
+    text-align: center;
+    padding-top: 20px;
+  }
 body {
-  font-family: "Bookman Old Style";
-	font-size: 20px;
+  font-family: "Helvetica Neue";
+	font-size: 18px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
@@ -52,9 +56,6 @@ body {
 .portfolio__item {
   width: calc(33% - 20px);
   float: left;
-  padding: 10px;
-  }
-.h5 {
-  font-size: 15px;
-  text-align: left;
+  padding: 5px;
+  display: block;
   }
